@@ -1,2 +1,2 @@
 # data_science
-README em Construção...
+Repositório para os trabalhos de Data Science
